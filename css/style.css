@@ -1,0 +1,44 @@
+body{
+    background-color: #ddd;
+}
+
+.person-image{
+    position: relative;
+    margin-top: -50px;
+}
+
+.cus-border{
+    width: 100px;
+    height: 100px; 
+    border: 5px solid white; 
+    background-color: orange;
+}
+
+.g-content1{
+    padding: 1rem;
+    background-color: #33b5e5;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+.g-content2{
+    padding: 1rem;
+    background-color: #6533e5;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+.g-content3{
+    padding: 1rem;
+    background-color: #e57d33;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
+.g-content4{
+    padding: 1rem;
+    background-color: #e533ca;
+    border: 1px solid white;
+    text-align: center;
+    color: white;
+}
